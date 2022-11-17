@@ -1,0 +1,7 @@
+WaveForm -> OneBitFullAdder
+WaveForm1 -> EightBitFullAdder
+WaveForm2 -> ThirtyTwoBitFullAdder
+WaveForm3 -> TwoSevenBitShifter
+WaveForm4 -> SignExtend
+WaveForm5 -> PcCounter
+WaveForm6 -> getFour

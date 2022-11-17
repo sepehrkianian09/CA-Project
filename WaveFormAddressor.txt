@@ -1,0 +1,10 @@
+WaveForm -> Memory (Write Test)
+WaveForm1 -> ControlUnit
+WaveForm2 -> OpToALUOp
+WaveForm3 -> EightBitEncoder
+WaveForm4 -> ALUControl
+WaveForm5 -> "SingleCycleMIPS"
+WaveForm6 -> Memory (Instructions Read Test)
+WaveForm7 -> Memory Ports Selector
+WaveForm8 -> Pipeline MIPS
+WaveForm8 -> RegisterFile

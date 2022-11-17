@@ -1,0 +1,6 @@
+WaveForm -> nBitUnsignedAddSubber
+WaveForm1 -> Shifter
+WaveForm2 -> Nander
+WaveForm3 -> SetLessThan
+WaveForm4 -> Minimum
+WaveForm5 -> ALU
